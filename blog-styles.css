@@ -1,0 +1,23 @@
+body {
+	font-family: Arial;
+	text-align: center;
+	}
+h1 {
+	color: red;
+	background-color: pink;
+	}
+p {
+	color: Pink;
+}
+nav { 
+	text-align: center;
+}
+nav a {
+	color: Green;
+}
+section h2 {
+		color: #27C9CF;
+	}
+section p {
+		color: #E0BF3D;
+	}
